@@ -38,7 +38,8 @@ The VacationPy notebook takes the data gather from WeatherPy filtered by my idea
 2. Temperature in the southern hemisphere tend to have a positive correlation with latitude, i.e. temperature increases as you move closer to the equator. The r value is 0.80, indicating a strong strength of correlation.
 3. There appears to be no correlation between humitidy and latitude. The r values for both northern and southern hemispheres are less than 0.3, indicating little to no correlation.
 4. There appears to be no correlation between cloudiness and latitude. The r values for both northern and southern hemispheres are less than 0.3, indicating little to no correlation.
-5. There appears to be no correlation between wind speed and latitude. The r values for both northern and southern hemispheres are less than 0.3, indicating little to no correlation.
+5. At the time the data was collected, it was more cloudy and more humid in the northern hemisphere than in the southern hemisphere. This may correspond with the seasonal differences between the two hemispheres. From April to September, the rain belt is in the nothern hemisphere, while the southern hemisphere experiences a dry season.
+6. While there appears to be no correlation between latitudes and wind speed, wind speed at the equator tends to be lower than at the poles.
 
 # Requirements
 To run the script in the two Jupyter Notebooks, you will need the following:
